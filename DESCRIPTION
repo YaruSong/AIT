@@ -1,0 +1,33 @@
+Package: AIT
+Title: AIT: An Adaptive Independence Test for Microbiome Community Data
+Version: 0.0.1
+Authors@R: person("Yaru", "Song", email = "1233208@sjtu.edu.cn",role = c("aut", "cre"))
+Maintainer: Yaru Song <1233208@sjtu.edu.cn>
+Description: The package provides an adaptive independence test for multinomial/
+    Dirichlet-multinomial distributed microbiome data. We propose a parametric test 
+    based on likelihood ratio test. The basic idea is to partition the range of the 
+    outcome variable into a few slices or bins, then test whether the community 
+    distributions are equal across the slices. Our method regularizes the log 
+    likelihood ratio with a penalty on the number of slices, and maximizes over 
+    all possible slicing schemes. 
+Depends: R (>= 3.5.2)
+License: GPL (>= 2)
+Imports: 
+    Rcpp, 
+    dirmult, 
+    foreach, 
+    stats, 
+    doParallel, 
+    GUniFrac, 
+    MGLM
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/YaruSong/AIT
+BugReports: https://github.com/YaruSong/AIT/issues
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+LinkingTo: 
+    Rcpp

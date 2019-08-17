@@ -1,0 +1,19 @@
+citHeader("To cite the AIT package in publications use:")
+
+citEntry(entry="Article",
+         title = "A tutorial on R package AIT",
+         author = personList(as.person("Yaru Song"), 
+                             as.person("Hongyu Zhao"),
+			     as.person("Tao Wang")),
+	 publisher = "",
+         edition = "",
+         address      = “Shanghai”,
+         year         = 2019,
+         pages        = "",
+         url          = "",
+         
+         textVersion = 
+         paste("", 
+               "",
+               "")
+)

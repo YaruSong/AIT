@@ -1,0 +1,24 @@
+\begin{thebibliography}{}
+
+\bibitem[Eddelbuettel {\em et~al.}(2011)Eddelbuettel, Fran{\c{c}}ois, Allaire,
+  Ushey, Kou, Russel, Chambers, and Bates]{eddelbuettel2011rcpp}
+Eddelbuettel, D., Fran{\c{c}}ois, R., Allaire, J., Ushey, K., Kou, Q., Russel,
+  N., Chambers, J., and Bates, D. (2011).
+\newblock Rcpp: Seamless r and c++ integration.
+\newblock {\em Journal of Statistical Software\/}, {\bf 40}(8), 1--18.
+
+\bibitem[Song {\em et~al.}(2019)Song, Zhao, and Wang]{song2019an}
+Song, Y., Zhao, H., and Wang, T. (2019).
+\newblock An adaptive independence test for microbiome community data.
+\newblock {\em Under review\/}.
+
+\bibitem[Yatsunenko {\em et~al.}(2012)Yatsunenko, Rey, Manary, Trehan,
+  Dominguez-Bello, Contreras, Magris, Hidalgo, Baldassano, Anokhin, {\em
+  et~al.}]{yatsunenko2012human}
+Yatsunenko, T., Rey, F.~E., Manary, M.~J., Trehan, I., Dominguez-Bello, M.~G.,
+  Contreras, M., Magris, M., Hidalgo, G., Baldassano, R.~N., Anokhin, A.~P.,
+  {\em et~al.} (2012).
+\newblock Human gut microbiome viewed across age and geography.
+\newblock {\em Nature\/}, {\bf 486}(7402), 222--227.
+
+\end{thebibliography}
