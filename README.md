@@ -4,6 +4,9 @@ An adaptive independence test for microbiome community data
 
 # Installation
 
+Firstly, Install Rtools (https://cran.r-project.org/bin/windows/Rtools/) if your computer is under Microsoft Windows;
+
+then, 
 ```
 install.packages("devtools")
 
